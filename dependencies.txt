@@ -1,0 +1,15 @@
+# Dependencies for WindowSimulator.java
+
+## Java AWT (Abstract Window Toolkit)
+- java.awt.*
+- java.awt.event.*
+- java.awt.geom.RoundRectangle2D
+- java.awt.Toolkit
+
+## Java Swing
+- javax.swing.*
+- javax.swing.border.AbstractBorder
+- javax.swing.border.BorderFactory
+
+## Java Utility
+- java.util.Random
