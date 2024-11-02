@@ -11,16 +11,28 @@ public class WindowSimulator extends JFrame {
         setDefaultCloseOperation(JFrame.DO_NOTHING_ON_CLOSE);
 
         // Set the content pane color to translucent
-        getContentPane().setBackground(Color.BLACK); // RGBA, where A is the alpha for transparency
+        getContentPane().setBackground(new Color(0, 0, 0, 128)); // RGBA, where A is the alpha for transparency
+        setLayout(new BorderLayout());
 
         // Add a JLabel with the text "this is useless" and "you're trapped" on a new line
-        JLabel label = new JLabel("<html>this is useless<br>you're trapped</html>", SwingConstants.CENTER);
-        add(label);
+        JLabel label = new JLabel("<html><div style='text-align: center;'>this is useless<br>you're trapped</div></html>", SwingConstants.CENTER);
+        label.setFont(new Font("Arial", Font.PLAIN, 14));
+        label.setForeground(Color.WHITE);
+        add(label, BorderLayout.CENTER);
 
         // Add a JLabel with the text "USELESS PROJECTS" using * symbol as the title
         JLabel titleLabel = new JLabel("* USELESS PROJECTS *", SwingConstants.CENTER);
         titleLabel.setFont(new Font("Arial", Font.BOLD, 16));
+        titleLabel.setForeground(Color.YELLOW);
         add(titleLabel, BorderLayout.NORTH);
+
+        // Add padding around the content
+        JPanel paddingPanel = new JPanel();
+        paddingPanel.setOpaque(false);
+        paddingPanel.setBorder(BorderFactory.createEmptyBorder(20, 20, 20, 20));
+        paddingPanel.setLayout(new BorderLayout());
+        paddingPanel.add(label, BorderLayout.CENTER);
+        add(paddingPanel, BorderLayout.CENTER);
 
         addWindowListener(new WindowAdapter() {
             @Override
