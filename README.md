@@ -1,30 +1,23 @@
 # Useless Projects
+### BY BYTETRACKERS
 
 Welcome to the Useless Projects repo! This collection is dedicated to fun, quirky, and completely impractical projects. Enjoy exploring and feel free to contribute your own useless creations.
 
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Projects](#projects)
-- [Contributing](#contributing)
+- [Project](#project)
 - [License](#license)
 
 ## Introduction
 
-This repository is a compilation of projects that serve no real purpose but are fun to create and explore. Whether it's a random number generator that only generates the number 7 or a calculator that only subtracts, you'll find it here.
+This repository is a compilation of projects that serve no real purpose but are fun to create and explore.
 
-## Projects
+## Project
 
-1. **Random Number Generator** - A generator that always returns 7.
-2. **Subtraction Only Calculator** - A calculator that only performs subtraction.
-3. **Infinite Loop Printer** - A program that prints "Hello World" in an infinite loop.
-
-## Contributing
-
-We welcome contributions! If you have a useless project you'd like to add, please fork the repository and submit a pull request. Make sure your project is truly useless and fun!
+1. **WINDOW SIMULATOR** - A GUI Window acts abnormally. It definitely measures your tolerance.
+   Go for [Link](https://www.canva.com/design/DAGVPUPcOmw/IPMvg4igBFcmEW70hOgQ9A/view?utm_content=DAGVPUPcOmw&utm_campaign=designshare&utm_medium=link&utm_source=editor) for more
 
 ## License
 
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-Happy coding!
+This repository is licensed under the BYTETRACKERS
