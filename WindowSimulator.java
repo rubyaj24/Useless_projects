@@ -1,7 +1,6 @@
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
-import javax.swing.border.AbstractBorder;
 import java.awt.geom.RoundRectangle2D;
 import java.util.Random;
 
