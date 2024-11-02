@@ -16,7 +16,10 @@ This repository is a compilation of projects that serve no real purpose but are 
 ## Project
 
 1. **WINDOW SIMULATOR** - A GUI Window acts abnormally. It definitely measures your tolerance.
-   Go for [Link](https://www.canva.com/design/DAGVPUPcOmw/IPMvg4igBFcmEW70hOgQ9A/view?utm_content=DAGVPUPcOmw&utm_campaign=designshare&utm_medium=link&utm_source=editor) for more
+   Go for [Link](https://www.canva.com/design/DAGVPUPcOmw/IPMvg4igBFcmEW70hOgQ9A/view?utm_content=DAGVPUPcOmw&utm_campaign=designshare&utm_medium=link&utm_source=editor) for more.
+   - Absolutely useless.
+   - Tests your patience.
+   - Made in Java.
 
 ## License
 
