@@ -1,5 +1,5 @@
 # Useless Projects
-### BY BYTETRACKERS
+### BY BYTE REBELS
 
 Welcome to the Useless Projects repo! This collection is dedicated to fun, quirky, and completely impractical projects. Enjoy exploring and feel free to contribute your own useless creations.
 
