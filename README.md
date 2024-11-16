@@ -48,18 +48,23 @@ Clone the repository in local machine which have JDK and IDE installed.
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Screenshot 2024-11-02 173658.png)
+
+<img width="720" alt="readme-banner" src="Screenshot 2024-11-02 173658.png">
 *Window opens with a normal size*
-
-![Screenshot2](Screenshot 2024-11-02 173706.png)
+<br>
+<img width="720" alt="readme-banner" src="Screenshot 2024-11-02 173706.png">
 *When tries to maximise the window it jumps to a random position*
-
-![Screenshot3](Screenshot 2024-11-02 173721.png)
+<br>
+<img width="720" alt="readme-banner" src="Screenshot 2024-11-02 173721.png">
 *When tries to close it duplicates*
 
 ### Project Demo
 # Video
-[demo](demo.mp4)
+
+
+https://github.com/user-attachments/assets/79b94bba-9819-4db3-acb1-af9d646a4379
+
+
 *Explain what the video demonstrates*
 
 # Additional Demos
